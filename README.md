@@ -1,3 +1,3 @@
-NBA
+Trying to beat the bookmakers in NBA
 ===
-Poster: https://github.com/kaidolepik/NBA/blob/master/Sports%20betting.pdf
+The [poster](https://github.com/kaidolepik/NBA/blob/master/Sports%20betting.pdf) explains everything.
